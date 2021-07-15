@@ -8,7 +8,6 @@ content:
 hide_git_sync_repo_link: false
 ---
 
-# Hey There! Welcome to my Personal Internweb Space!
-## Watch me ~~ruin~~ build your favourite cars, bikes and planes (maybe some Gunpla and Tanks too), talk about games and playing and chat shit about stuff and things
+
 
 
