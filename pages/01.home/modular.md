@@ -16,8 +16,7 @@ content:
         dir: desc
     pagination: false
     url_taxonomy_filters: false
-    items:
-        - '@self.children'
+    items: '@self.children'
 bricklayer_layout: true
 display_post_summary:
     enabled: false
@@ -26,6 +25,3 @@ feed:
 blog_url: /blog
 ---
 
-# Welcome to my Personal space on the internet.
-
-#### I talk about stuff and things here, show off my Scale Models and chat shit about my misadventures in Fishkeeping
