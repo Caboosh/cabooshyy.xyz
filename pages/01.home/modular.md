@@ -16,11 +16,14 @@ content:
         dir: desc
     pagination: false
     url_taxonomy_filters: false
+    items:
+        - '@self.children'
 bricklayer_layout: true
 display_post_summary:
     enabled: false
 feed:
     limit: 10
+blog_url: /blog
 ---
 
 # Welcome to my Personal space on the internet.
