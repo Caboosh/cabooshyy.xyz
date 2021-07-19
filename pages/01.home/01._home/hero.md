@@ -6,6 +6,8 @@ media_order: Cammy.jpg
 hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
 hero_image: Cammy.jpg
 published: true
+external_links:
+    process: false
 ---
 
 # Welcome to my Personal space on the internet.
