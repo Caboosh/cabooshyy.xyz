@@ -36,8 +36,3 @@ features:
         url: null
 ---
 
-Your page summary goes here.
-
-===
-
-Your page content goes here.
