@@ -2,7 +2,7 @@
 title: Blog
 body_classes: modular
 hide_git_sync_repo_link: false
-class: small
+class: standard
 features:
     -
         icon: fighter-jet
