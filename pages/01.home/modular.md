@@ -23,7 +23,6 @@ display_post_summary:
 feed:
     limit: 10
 blog_url: /blog
-external_links:
-    process: false
+external_links: {  }
 ---
 
