@@ -25,6 +25,6 @@ media_order: Cammy.jpg
 hero_image: Cammy.jpg
 ---
 
-# Welcome to my Personal space on the internet.
+# Welcome to the Blog
 
 #### I talk about stuff and things here.
