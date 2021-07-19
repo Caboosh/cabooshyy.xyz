@@ -3,7 +3,7 @@ title: Home
 hide_git_sync_repo_link: false
 published: true
 hero_classes: 'text-light title-h1h2 parallax overlay-dark-gradient hero-large'
-hero_image: road.jpg
+hero_image: Cammy.jpg
 hero_align: center
 ---
 
