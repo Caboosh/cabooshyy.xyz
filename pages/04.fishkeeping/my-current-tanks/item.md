@@ -27,3 +27,8 @@ Like, here's an example of what i mean, here is my 5 Gal Betta Tank, The tank on
 
 and Here is my current Community. its rather small and definitely on the very heavy side for stocking, but its a planted tank and has a larger than needed filter packed with enough media to support it. as it is now there is 0ppm ammonia, 0ppm Nitrite and 20ppm Nitrate, oh and a lovely T A N N I N S colour. The fake plant on the right was to help seed it as it was in my previous tank which had my molly's in.
 <img style="max-width: 85%;" src="https://cabooshyy.xyz/user/pages/04.fishkeeping/my-current-tanks/My%2010Gal%20Community%20that%20really%20needs%20to%20be%20a%20in%20a%20bigger%20tank%20but%20M%20O%20N%20E%20Y.jpg" class="img-fit-contain" alt="My 10Gal Community that really needs to be in a bigger tank... Tank">
+
+Thanks for coming to my TED Talk!
+but yeah, the state of the hobby for someone like me who is really into it and wants to do the best they can for their pets is really hard when a 30 Gal is like north of £350 because you have to get a cabinet with it even if you already have a place sturdy enough for it (like a custom built rack for example). its just stupid for the sake of being stupid.
+
+anyways enough of my rambling you'll hear from me again when i have my new tank setup and cycled for the moving of my community into it.
