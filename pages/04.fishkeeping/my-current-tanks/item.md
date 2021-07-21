@@ -9,6 +9,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 media_order: 'Zeus'' 5Gal.jpg,My 10Gal Community that really needs to be a in a bigger tank but M O N E Y.jpg'
+hero_image: 'My 10Gal Community that really needs to be a in a bigger tank but M O N E Y.jpg'
 ---
 
 Talking about my reason for having not the greatest tank sizes and why i have the fish i have n that.
