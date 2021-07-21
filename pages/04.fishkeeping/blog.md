@@ -21,6 +21,7 @@ feed:
     limit: 10
 hero_classes: 'hero-large text-light overlay-dark-gradient'
 hero_image: Opal.png
+media_order: Opal(1).jpg
 ---
 
 ## The Fishkeeping ~~Mis~~adventures
