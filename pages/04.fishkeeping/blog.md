@@ -20,7 +20,7 @@ display_post_summary:
 feed:
     limit: 10
 hero_classes: 'hero-large text-light overlay-dark-gradient'
-hero_image: Opal.png
+hero_image: Opal(1).jpg
 media_order: Opal(1).jpg
 ---
 
