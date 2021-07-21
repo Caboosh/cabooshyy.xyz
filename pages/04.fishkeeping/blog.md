@@ -19,6 +19,11 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
+media_order: Opal.png
+hero_classes: 'hero-large text-light overlay-dark-gradient'
+hero_image: Opal.png
 ---
 
-Your page content goes here.
+## The Fishkeeping ~~Mis~~adventures
+
+#### Documenting how expensive this hobby is because i live in Brexit.
