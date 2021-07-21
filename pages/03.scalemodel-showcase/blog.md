@@ -21,4 +21,6 @@ feed:
     limit: 10
 ---
 
-Your page content goes here.
+## My Scale modelling Corner
+
+#### Totally not gonna ruin your favourite cars and stuff.
