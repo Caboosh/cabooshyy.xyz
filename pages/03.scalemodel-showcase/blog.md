@@ -20,6 +20,7 @@ display_post_summary:
 feed:
     limit: 10
 media_order: 'WhatsApp Image 2021-03-06 at 22.37.42.jpeg'
+hero_classes: 'hero-large text-light overlay-dark-gradient'
 ---
 
 ## My Scale modelling Corner
