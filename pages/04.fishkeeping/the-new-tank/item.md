@@ -8,10 +8,12 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+media_order: 'Muh New Tank.jpg'
 ---
 
-Your page summary goes here.
+Its finally here! Its finally Cycling! 
+
+So this is my community's new home, a Juwel Lido 200 (which is 200L (about 53Gal) as the name suggests).
 
 ===
-
-Your page content goes here.
+Zeus will be getting the 40L tank once this bad boy is cycled. but yeah, got some plants in there to start, will be getting more to fill it out a bit more. But the Theme was Star Wars, as is quite obvious by the big ol AT-AT in the left (ignore my glass scraper I dropped it while putting it onto the glass lol). I'm going plant shopping tomorrow for more to fill out a few more of the voids, and adding some green to the wood since it looks quite bare. Expect a post when everyone is in their new home and happy!
