@@ -1,6 +1,6 @@
 ---
 title: 'The New Tank!'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
