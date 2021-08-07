@@ -9,6 +9,8 @@ hide_from_post_list: false
 feed:
     limit: 10
 media_order: 'Muh New Tank.jpg'
+hero_classes: ' text-light overlay-dark-gradient'
+hero_image: 'Muh New Tank.jpg'
 ---
 
 Its finally here! Its finally Cycling! 
